@@ -483,7 +483,6 @@ html , body {
 	height: 5rem;
 }
 
-
 .swiper-wrapper .di_toux .toux {
 	width: 7.5rem;
 	height: 7.5rem;
@@ -509,6 +508,8 @@ html , body {
 	margin-left: -2.718rem;
 }
 .swiper-wrapper .di_toux p {
+	width: 100%;
+	text-align: center;
 	color: #fff;
 	font-weight: 600;
 }
@@ -516,19 +517,16 @@ html , body {
 .swiper-wrapper .swiper-slide .p1 {
 	position: absolute;
     top: 46%;
-    left: 19%;
     font-size: 2.6rem;
 }
 .swiper-wrapper .swiper-slide .p2 {
 	position: absolute;
     top: 55%;
-    left: 29%;
     font-size: 1.1rem;
 }
 .swiper-wrapper .swiper-slide .p3 {
 	position: absolute;
     top: 60%;
-    left: 35%;
     font-size: 1.1rem;
 }
 
